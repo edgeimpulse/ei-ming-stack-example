@@ -195,7 +195,7 @@ This project is inspired by the original MING concept and various community-driv
 It builds on open knowledge from the Node-RED, InfluxDB, Grafana, Mosquitto, and Edge Impulse ecosystems.
 
 
+## License
 
-
-
+[BSD 3-Clause Clear](LICENSE)
 
